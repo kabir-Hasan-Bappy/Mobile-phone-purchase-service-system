@@ -1,0 +1,20 @@
+.stock table{
+    width: 80%;
+    margin: 40px auto;
+    border-collapse: collapse;
+    text-align: left;
+
+}
+ 
+
+.stock tr {
+    border-bottom: 1px solid black;
+}
+.stock th, td{
+    border: none;
+    height: 30px;
+    padding: 2px;
+    padding-left: 40px;
+    font-size: 15px; 
+    
+}
